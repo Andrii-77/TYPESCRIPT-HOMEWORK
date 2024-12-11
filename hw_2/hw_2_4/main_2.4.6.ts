@@ -1,4 +1,4 @@
-function listWithText(text: string): void {
+function listWithText1(text: string): void {
     document.write(`
               <ul>
                     <li>${text}</li>
@@ -6,4 +6,4 @@ function listWithText(text: string): void {
                     <li>${text}</li>
               </ul>`)
 }
-listWithText("Привіт!!!");
+listWithText1("Привіт!!!");

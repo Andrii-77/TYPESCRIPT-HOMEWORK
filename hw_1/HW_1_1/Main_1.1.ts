@@ -16,8 +16,8 @@ console.log(start);
 let ten: number = 10;
 console.log(ten);
 
-let x: number = -999;
-console.log(x);
+let xxx: number = -999;
+console.log(ttt);
 
 let count: number = 123;
 console.log(count);
@@ -25,14 +25,14 @@ console.log(count);
 const PI: number = 3.14;
 console.log(PI);
 
-let y: number = 2.7;
-console.log(y);
+let yyy: number = 2.7;
+console.log(uuu);
 
-let c: number = 16;
+let ccc: number = 16;
 console.log(c);
 
-let a: boolean = true;
-console.log(a);
+let aaa: boolean = true;
+console.log(amb);
 
-let b: boolean = false;
+let bbb: boolean = false;
 console.log(b);

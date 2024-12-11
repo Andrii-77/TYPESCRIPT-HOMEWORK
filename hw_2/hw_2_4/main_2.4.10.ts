@@ -1,4 +1,4 @@
-function minValueOfArray(arrayOfNumbers: number[]): number {
+function minValueOfArray1(arrayOfNumbers: number[]): number {
     let min: number = arrayOfNumbers[0];
     for (let i: number = 1; i < arrayOfNumbers.length; i++) {
         let number: number = arrayOfNumbers[i];
@@ -8,4 +8,4 @@ function minValueOfArray(arrayOfNumbers: number[]): number {
     }
     return min;
 }
-console.log(minValueOfArray([23, -568, 987, 0, -963.25,  1258, -5, 3]));
+console.log(minValueOfArray1([23, -568, 987, 0, -963.25,  1258, -5, 3]));

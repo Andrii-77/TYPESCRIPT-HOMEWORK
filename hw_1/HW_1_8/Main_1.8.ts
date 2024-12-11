@@ -1,4 +1,4 @@
-let users: {name: string, username: string, password: string}[] =[
+let usersArr: {name: string, username: string, password: string}[] =[
     {name: 'Vasyl', username: 'Vasya', password: 'Jkdgj51'},
     {name: 'Petro', username: 'Petryk', password: '5864kssldhRF'},
     {name: 'Mykola', username: 'Kolka', password: 'fldgjsj52'},
@@ -10,13 +10,13 @@ let users: {name: string, username: string, password: string}[] =[
     {name: 'Yuriy', username: 'Star', password: '$$335577'},
     {name: 'Igor', username: 'Varik', password: '54LKJH456'},
 ];
-console.log(users[0].password);
-console.log(users[1].password);
-console.log(users[2].password);
-console.log(users[3].password);
-console.log(users[4].password);
-console.log(users[5].password);
-console.log(users[6].password);
-console.log(users[7].password);
-console.log(users[8].password);
-console.log(users[9].password);
+console.log(usersArr[0].password);
+console.log(usersArr[1].password);
+console.log(usersArr[2].password);
+console.log(usersArr[3].password);
+console.log(usersArr[4].password);
+console.log(usersArr[5].password);
+console.log(usersArr[6].password);
+console.log(usersArr[7].password);
+console.log(usersArr[8].password);
+console.log(usersArr[9].password);

@@ -8,8 +8,8 @@ let str3: string = 'JAVASCRIPT IS COOL';
 const str3Lo: string = str3.toLowerCase();
 console.log(str3Lo);
 console.log(' ');
-let strings: string[] = [str1, str2, str3];
-for (const str of strings) {
+let stringsOfAll: string[] = [str1, str2, str3];
+for (const str of stringsOfAll) {
     console.log(str.toLowerCase());
 }
 console.log(' ');

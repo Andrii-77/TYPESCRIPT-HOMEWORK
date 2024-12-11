@@ -17,11 +17,7 @@ for (const suit of suits) {
 console.log(cardsBox);
 
 // - знайти піковий туз
-// console.log(cardsBox.find(card => card.value === 'ace' && card.cardSuit === 'spade'));
-
-// Не розумію чому на методі find вибиває помилку і спричиняє її any. Якщо можете, то поясніть.
-
-
+console.log(cardsBox.find(card => card.value === 'ace' && card.cardSuit === 'spade'));
 
 // - всі шістки
 console.log(cardsBox.filter(card => card.value === '6'));

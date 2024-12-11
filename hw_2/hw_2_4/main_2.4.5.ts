@@ -1,4 +1,4 @@
-function paragraphWithText(text: string): void {
+function paragraphWithText1(text: string): void {
     document.write(`<p>${text}</p>`)
 }
-paragraphWithText('Hello!!!')
+paragraphWithText1('Hello!!!')

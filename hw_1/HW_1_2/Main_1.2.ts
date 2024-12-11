@@ -1,5 +1,5 @@
-let firstName: string= 'Andrii';
-let middleName: string= 'Dmytrovych';
+let firstNameMy: string= 'Andrii';
+let middleNameMy: string= 'Dmytrovych';
 let lastName: string= "Smaha";
-let person: string= firstName+' '+middleName+' '+lastName;
+let person: string= firstNameMy+' '+middleNameMy+' '+lastName;
 console.log(person);

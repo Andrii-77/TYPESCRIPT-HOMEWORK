@@ -1,14 +1,14 @@
-let str1: string = 'hello world';
-const str1Up: string = str1.toUpperCase();
+let str11: string = 'hello world';
+const str1Up: string = str11.toUpperCase();
 console.log(str1Up);
-let str2: string = 'lorem ipsum';
-const str2Up: string = str2.toUpperCase();
+let str22: string = 'lorem ipsum';
+const str2Up: string = str22.toUpperCase();
 console.log(str2Up);
-let str3: string = 'javascript is cool';
-const str3Up: string = str3.toUpperCase();
+let str33: string = 'javascript is cool';
+const str3Up: string = str33.toUpperCase();
 console.log(str3Up);
 console.log(' ');
-let strings: string[] = [str1, str2, str3];
-for (const str of strings) {
+let stringsAll1: string[] = [str11, str22, str33];
+for (const str of stringsAll1) {
     console.log(str.toUpperCase());
 }

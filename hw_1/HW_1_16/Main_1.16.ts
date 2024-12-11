@@ -1,4 +1,4 @@
-let coursesAndDurationArray: {title: string, monthDuration: number}[] = [
+let coursesAndDurationArray1: {title: string, monthDuration: number}[] = [
     {title: 'JavaScript Complex', monthDuration: 5},
     {title: 'Java Complex', monthDuration: 6},
     {title: 'Python Complex', monthDuration: 6},
@@ -7,21 +7,21 @@ let coursesAndDurationArray: {title: string, monthDuration: number}[] = [
     {title: 'Frontend', monthDuration: 4}
 ];
 
-if (coursesAndDurationArray[0].monthDuration > 5){
+if (coursesAndDurationArray1[0].monthDuration > 5){
     console.log("Супер");
 }
-if (coursesAndDurationArray[1].monthDuration > 5){
+if (coursesAndDurationArray1[1].monthDuration > 5){
     console.log("Супер");
 }
-if (coursesAndDurationArray[2].monthDuration > 5){
+if (coursesAndDurationArray1[2].monthDuration > 5){
     console.log("Супер");
 }
-if (coursesAndDurationArray[3].monthDuration > 5){
+if (coursesAndDurationArray1[3].monthDuration > 5){
     console.log("Супер");
 }
-if (coursesAndDurationArray[4].monthDuration > 5){
+if (coursesAndDurationArray1[4].monthDuration > 5){
     console.log("Супер");
 }
-if (coursesAndDurationArray[5].monthDuration > 5){
+if (coursesAndDurationArray1[5].monthDuration > 5){
     console.log("Супер");
 }

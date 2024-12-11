@@ -1,5 +1,5 @@
-let i: number = 0;
-while (i < 20) {
+let iii: number = 0;
+while (iii < 20) {
     document.write("<h1>Всім Здоров'я!!!</h1>");
-    i++;
+    iii++;
 }

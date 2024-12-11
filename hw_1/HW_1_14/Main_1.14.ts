@@ -1,9 +1,9 @@
-let x: number;
-let y: number;
-if (x > y) {
-    console.log(x);
-} else if (x < y) {
-    console.log(y);
-} else if (x === y) {
+let ttt: number;
+let uuu: number;
+if (ttt > uuu) {
+    console.log(ttt);
+} else if (ttt < uuu) {
+    console.log(uuu);
+} else if (ttt === uuu) {
     console.log('Even')
 }
