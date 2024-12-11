@@ -29,10 +29,10 @@ let yyy: number = 2.7;
 console.log(uuu);
 
 let ccc: number = 16;
-console.log(c);
+console.log(ccc);
 
 let aaa: boolean = true;
 console.log(amb);
 
 let bbb: boolean = false;
-console.log(b);
+console.log(bbb);
